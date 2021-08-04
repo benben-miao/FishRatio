@@ -1,0 +1,3 @@
+[console_scripts]
+fishratio = fishratio.fishratio:calculate
+

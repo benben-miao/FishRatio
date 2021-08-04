@@ -1,0 +1,16 @@
+Metadata-Version: 1.2
+Name: fishratio
+Version: 1.0.0
+Summary: Calculate the ratio and logarithmic value of species contained in several genus of a family to all species in this family.
+Home-page: https://github.com/benben-miao/FishRatio
+Author: benben-miao
+Author-email: benben.miao@outlook.com
+Maintainer: benben-miao
+Maintainer-email: benben.miao@outlook.com
+License: MIT License
+Download-URL: https://pypi.python.org
+Description: Calculate the ratio and logarithmic value of species contained in several genus of a family to all species in this family.
+Keywords: CLI,Biology,Statistics
+Platform: any
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent

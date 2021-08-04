@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.py
+fishratio/__inint__.py
+fishratio/fishratio.py
+fishratio.egg-info/PKG-INFO
+fishratio.egg-info/SOURCES.txt
+fishratio.egg-info/dependency_links.txt
+fishratio.egg-info/entry_points.txt
+fishratio.egg-info/requires.txt
+fishratio.egg-info/top_level.txt
