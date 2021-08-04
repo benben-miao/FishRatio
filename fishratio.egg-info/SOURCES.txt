@@ -1,6 +1,7 @@
 MANIFEST.in
 README.md
 setup.py
+fishratio/README.md
 fishratio/__inint__.py
 fishratio/fishratio.py
 fishratio.egg-info/PKG-INFO
